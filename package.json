@@ -1,0 +1,24 @@
+{
+  "name": "opcua-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1511.0",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "modbus-serial": "^8.0.13",
+    "mqtt": "^5.0.4",
+    "node-opcua": "^2.110.0",
+    "node-stream-zip": "^1.15.0",
+    "ws": "^8.14.2"
+  }
+}
